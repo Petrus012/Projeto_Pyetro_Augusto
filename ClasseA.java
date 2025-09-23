@@ -19,15 +19,14 @@ public class ClasseA {
     }
 
     public void MA1() {
-        System.out.println("Método MA1()");
+        System.out.println("Metodo MA1()");
     }
 
     public void MA2() {
-        System.out.println("Método MA2()");
+        System.out.println("Metodo MA2()");
     }
 
     public void MA3() {
-        System.out.println("Alteração a classe A partir do clone");
+        System.out.println("Alteracao a classe A a partir do clone");
     }
 }
-
